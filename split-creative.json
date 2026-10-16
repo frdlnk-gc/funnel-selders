@@ -1,0 +1,45 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-bagger.jpg",
+  "primary": "#239D46",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "panel_bg": "#239D46",
+  "kicker": "WIR SUCHEN IN NEUSS",
+  "headline": [
+   "Bauleiter GaLaBau",
+   "(m/w/d)"
+  ],
+  "subline": "Hochwertige Privatgärten – mit Urlaubs- & Weihnachtsgeld.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.55
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-familie.jpg",
+  "primary": "#239D46",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN NEUSS",
+  "headline": [
+   "Bauleiter GaLaBau (m/w/d)"
+  ],
+  "checkliste": [
+   "Voll ausgestatteter Firmenwagen",
+   "Urlaubs- & Weihnachtsgeld",
+   "Unbefristet & Altersvorsorge"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.35
+  ]
+ }
+]

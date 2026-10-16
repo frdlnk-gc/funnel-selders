@@ -1,0 +1,21 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo-hd.png",
+ "foto": "img/foto-hd-inhaber.jpg",
+ "fokus": [
+  0.45,
+  0.3
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#239D46",
+ "headline": [
+  "BAULEITER",
+  "GALABAU"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Neuss · Düsseldorf · Mönchengladbach & Umgebung"
+}

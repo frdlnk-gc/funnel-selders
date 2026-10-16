@@ -1,0 +1,36 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-hd.png",
+ "fotos": [
+  "img/foto-hd-steinsaege.jpg",
+  "img/foto-hd-pflaster.jpg",
+  "img/foto-hd-pool-holzrand.jpg"
+ ],
+ "fokus": [
+  [
+   0.5,
+   0.45
+  ],
+  [
+   0.55,
+   0.4
+  ],
+  [
+   0.5,
+   0.5
+  ]
+ ],
+ "primary": "#239D46",
+ "ink": "#1B1B1B",
+ "headline": [
+  "Bauleiter",
+  "GaLaBau"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "ort": "Neuss · Düsseldorf · Dormagen",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}
