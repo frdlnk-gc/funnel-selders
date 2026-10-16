@@ -1,0 +1,97 @@
+{
+  "firma": "Selders Neuss",
+  "stelle": "Bauleiter GaLaBau (m/w/d)",
+  "ort": "Neuss",
+  "plz": "41464",
+  "branche": "galabau",
+  "farbe_primary": "#239D46",
+  "farbe_secondary": "#E4B632",
+  "region_badge": "Neuss & Umgebung",
+  "benefit_top": "Urlaubs- & Weihnachtsgeld",
+  "benefits": [
+    "Voll ausgestatteter Firmenwagen",
+    "Urlaubs- & Weihnachtsgeld",
+    "Unbefristeter Arbeitsvertrag & betriebliche Altersvorsorge",
+    "Jobrad & Kostenübernahme Anhängerführerschein",
+    "Keine Montageeinsätze mit Übernachtung",
+    "Interne Karrierechancen & flache Hierarchien"
+  ],
+  "aufgaben": [
+    "Du leitest hochwertige Privatgartenprojekte eigenverantwortlich – und packst auf der Baustelle mit an",
+    "Du führst Einmessarbeiten eigenverantwortlich durch",
+    "Du bist erster Ansprechpartner für die Bauherren und setzt ihre Wünsche um",
+    "Du steuerst Mitarbeiter und Abläufe – moderne Maschinen und Geräte stehen dir zur Verfügung"
+  ],
+  "anforderung": "Abgeschlossene Ausbildung im GaLaBau, Kenntnisse in Einmessarbeiten und selbstständige Baustellenabwicklung. Führerschein Klasse B/BE ist wünschenswert.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Garten- & Landschaftsbau",
+      "icon": "🌳",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung im GaLaBau",
+          "icon": "🌿"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🔄",
+      "qualifikationen": [
+        {
+          "label": "Studium in anderem Fach",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker in anderem Fach",
+          "icon": "📘"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "1973",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "22",
+        "label": "Mitarbeiter"
+      }
+    ],
+    "text": "Selders aus Neuss ist seit 1973 in der grünen Branche zu Hause – mit Garten- und Landschaftsbau, Floristik und Friedhofsgärtnerei. 22 Mitarbeiter setzen auf Fachkompetenz und Kreativität; regionales Pflanzenmaterial und Nachhaltigkeit gehören fest zur Philosophie."
+  },
+  "kunde_tab": "23 Selders Neuss",
+  "quelle": "https://selders.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Neuss"
+  },
+  "hero_bild": "img/hero-pflaster.jpg",
+  "bilder": [
+    "img/f1-pflaster.jpg",
+    "img/f2-steinsaege.jpg",
+    "img/f3-bagger.jpg",
+    "img/f4-familie.jpg",
+    "img/f5-pool-holzrand.jpg",
+    "img/f6-hochbeete-pool.jpg",
+    "img/f7-pool-graeser.jpg",
+    "img/f8-poolbau.jpg",
+    "img/f9-terrasse.jpg"
+  ]
+}
